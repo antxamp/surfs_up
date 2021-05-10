@@ -37,8 +37,8 @@ W. Avy likes my analysis, but he wants more information about temperature trends
 
 
 ## Final results with additional queries
-##### With the data sorted and statistics present. I can verify that there are more observation counts in the month of June comparable to December. And to put this data together to draw a better picture. 
-##### I've made addtional queries and provided addtional data below to give a better visual on how often the the temperaures are observed which indicate that although december is cooler it does exhibit more than 50% of its observations in the 70, 80F range. in addition to my analysis you can see where there is an outlier of 9 observations recorded for the minimum temperature in December. 
+##### With the data sorted and statistics present. I can verify that there are more observation counts in the month of June comparable to December in order to understand more, I've made more queries to draw a better picture for my conclusion. 
+##### I've made addtional queries and provided addtional data below to give a better visual on how often the the temperaures are observed which indicate that although December is cooler it does exhibit more than 50% of its observations in the 70, 80F range. In addition to my analysis you can see where there is an outlier of 9 observations recorded for the minimum temperature in December. 
 
 #### Conclusion: **Year-round sustainability is possible for business in Oahu.**
 
