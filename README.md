@@ -42,12 +42,13 @@ W. Avy likes my analysis, but he wants more information about temperature trends
 
 #### Conclusion: **Year-round sustainability is possible for business in Oahu.**
 
-
+## June
 ![image](https://github.com/antxamp/surfs_up/blob/main/Resources/june_temp_range.png)
 
 
 
 
+## December
 ![image](https://github.com/antxamp/surfs_up/blob/main/Resources/dec_temp_range.png)
 
 
