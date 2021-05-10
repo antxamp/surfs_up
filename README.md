@@ -11,7 +11,7 @@ W. Avy likes my analysis, but he wants more information about temperature trends
 
 ###### Deliverable 2: Determine the Summary Statistics for December
 
-### Results:
+### Results from deliverables:
 **Here are the statistical results for the month of June in _Oahu_.** 
 
 ![image](https://github.com/antxamp/surfs_up/blob/main/Resources/june_temps_stats.png)
